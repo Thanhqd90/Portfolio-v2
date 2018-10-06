@@ -1,0 +1,17 @@
+body {
+    background: url("../images/photography.png") repeat;
+}
+
+.portfolio-img {
+    height: 175px;
+    width: 175px;
+}
+
+.project-img {
+margin: auto;
+}
+
+.project-wrapper {
+height: 70%;
+width: 100%
+}
